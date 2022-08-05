@@ -9,7 +9,7 @@
         "TroJanzHEX"
     ],
     "website": "https://yasirweb.eu.org",
-    "repository": "https://github.com/ShervinChila/AudioSubtitleExtractorBot",
+    "repository": "https://github.com/ShervinChila/EX",
     "success_url": "https://t.me/YasirArisM",
     "env": {
         "BOT_TOKEN": {
